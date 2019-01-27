@@ -1,5 +1,6 @@
 Harvest
 =======
+[![Join the chat at https://gitter.im/kaiiyer/automated-threat-intelligent-model](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kaiiyer/automated-threat-intelligent-model)
 
 Harvest gathers Threat Intelligence Feeds from publicly available sources
 
