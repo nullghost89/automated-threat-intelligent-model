@@ -9,7 +9,7 @@ It currently supports:
 
 ## Setup
 
-Quick install:
+Quick install(run as root):
 
 ```
 ./install.sh
@@ -32,7 +32,7 @@ $ audit.py config
 
 Create audit project:
 ```
-$ audit.py init audit1
+$ udit.py init audit1
 ```
 
 Start/Resume logging:
