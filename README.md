@@ -8,5 +8,7 @@ Hackathon Project at Make-A-Ton.
 
 ## Achievements and recognitions :
 1.This project was awarded with the honorable mention at Dhishna Make-a-ton.
+
 2.This project was shortlisted for finals in Beach Hack 2019.
+
 3.This project was awarded second prize at Innpasco 3.0 Project Presentation.
