@@ -14,7 +14,7 @@ https://github.com/MISP/MISP
 
 ## Prerequisites
 
-Download the [Latest Release](https://github.com/mohl1/OpenDXL-ATD-MISP/releases)
+Download the [Latest Release](https://github.com/kaiiyer/automated-threat-intelligent-model)
    * Extract the release .zip file
    
 MISP platform installation ([Link](https://github.com/MISP/MISP)) (tested with MISP 2.4.70)
