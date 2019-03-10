@@ -12,3 +12,5 @@ Hackathon Project at Make-A-Ton.
 2.This project was shortlisted for finals in Beach Hack 2019.
 
 3.This project was awarded first runner-up at Innpasco 3.0 Project Presentation.
+
+4.This project was shortlisted for internship-offer by Geektrust.
