@@ -63,11 +63,15 @@ Change the tag assignment in line 133
 Make sure that you added the tag in MISP already.
 
 ## Run the OpenDXL wrapper
-> python atd_subscriber.py
+```sh
+$ python atd_subscriber.py
+```
 
 or
 
-> nohup python atd_subscriber.py &
+```sh
+$ nohup python atd_subscriber.py &
+```
 
 ## Summary
 With this use case, ATD produces local intelligence and contributes information to an intelligence management platform like MISP.
