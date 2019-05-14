@@ -15,6 +15,4 @@ Emerged as a Hackathon Project at Make-A-Ton.
 
 4.The project was shortlisted for internship-offer by Geektrust.
 
-5.The project was shortlisted for Pre-finals in EY Ideathon 2019.
-
-6.The project was shortlisted for Idea Fest 2019 Finals from EY Challenge.
+5.The project was shortlisted for Finals in EY Ideathon for IdeaFest 2019.
