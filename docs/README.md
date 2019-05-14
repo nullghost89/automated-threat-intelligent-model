@@ -21,7 +21,7 @@ https://github.com/MISP/MISP
 
 ## Prerequisites
 
-Download the [Latest Release](https://github.com/kaiiyer/automated-threat-intelligent-model)
+Download the [Latest Release](https://github.com/kaiiyer/automated-threat-intelligent-model/releases/download/v1.0-beta/automated-threat-intelligent-model-master.zip)
    * Extract the release .zip file
    
 MISP platform installation ([Link](https://github.com/MISP/MISP)) (tested with MISP 2.4.70)
@@ -70,11 +70,15 @@ Change the tag assignment in line 133
 Make sure that you added the tag in MISP already.
 
 ## Run the OpenDXL wrapper
-> python atd_subscriber.py
+```sh
+$ python atd_subscriber.py
+```
 
 or
 
-> nohup python atd_subscriber.py &
+```sh
+$ nohup python atd_subscriber.py &
+```
 
 ## Summary
 With this use case, ATD produces local intelligence and contributes information to an intelligence management platform like MISP.
@@ -87,8 +91,7 @@ MISP is able to combine global, community and locally produced intelligence.
 <img src="https://66.media.tumblr.com/63856d859cba4d64053140d060137461/tumblr_pllgi5VnuU1wnca1uo3_1280.png" alt="Screenshot4">
 <img src="https://66.media.tumblr.com/8b3df16ae586be9ca844f8a6b24850b6/tumblr_pllgi5VnuU1wnca1uo4_1280.png" alt="Screenshot5">
 <img src="https://66.media.tumblr.com/45e2f7b02feb9e39e97d1599cb196184/tumblr_pllgi5VnuU1wnca1uo5_1280.png" alt="Screenshot6">
-
-# Active Response-Elastic
+# Active Response-ElasticSearch
 
 This integration is focusing on the automated real-time threat hunting with McAfee ATD, OpenDXL, Active Response and Elasticsearch. McAfee Advanced Threat Defense will produce local threat intelligence that will be pushed via DXL. An OpenDXL wrapper will subscribe and parse indicators ATD produced and execute automated Active Response searches across multiple DXL fabrics. The result will be imported in a big data analytic platform. 
 
