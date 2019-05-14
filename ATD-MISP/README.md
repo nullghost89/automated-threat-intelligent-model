@@ -14,7 +14,7 @@ https://github.com/MISP/MISP
 
 ## Prerequisites
 
-Download the [Latest Release](https://github.com/kaiiyer/automated-threat-intelligent-model)
+Download the [Latest Release](https://github.com/kaiiyer/automated-threat-intelligent-model/releases/download/v1.0-beta/automated-threat-intelligent-model-master.zip)
    * Extract the release .zip file
    
 MISP platform installation ([Link](https://github.com/MISP/MISP)) (tested with MISP 2.4.70)
