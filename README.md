@@ -4,15 +4,17 @@
 
 An improvised automated threat intelligent system with advanced vulnerability scanners and Opensource Intelligence Information gathering python scripts when integrated with McAfee Advanced Threat Defense and Malware Information Sharing Platform can defend against new and futuristic cyber attacks.
 
-Hackathon Project at Make-A-Ton.
+Emerged as a Hackathon Project at Make-A-Ton.
 
 ## Achievements and recognitions :
-1.This project was awarded with the honorable mention at Dhishna Make-a-ton.
+1.The project was awarded with the honorable mention at Dhishna Make-a-ton.
 
-2.This project was shortlisted for finals in Beach Hack 2019.
+2.The project was shortlisted for finals in Beach Hack 2019.
 
-3.This project was awarded first runner-up at Innpasco 3.0 Project Presentation.
+3.The project was awarded first runner-up at Innpasco 3.0 Project Presentation.
 
-4.This project was shortlisted for internship-offer by Geektrust.
+4.The project was shortlisted for internship-offer by Geektrust.
 
-5.This project was shortlisted for Idea Fest 2019 in EY Ideathon
+5.The project was shortlisted for Pre-finals in EY Ideathon 2019.
+
+6.The project was shortlisted for Idea Fest 2019 Finals from EY Chalenge.
