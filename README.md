@@ -13,7 +13,7 @@ Emerged as a Hackathon Project at Make-A-Ton.
 
 3.The project was awarded first runner-up at Innpasco 3.0 Project Presentation.
 
-4.The project was shortlisted for internship-offer by Geektrust.
+4.The project was shortlisted for an internship offer by Geektrust.
 
 5.The project was shortlisted for Finals in EY Ideathon for IdeaFest 2019.
 
